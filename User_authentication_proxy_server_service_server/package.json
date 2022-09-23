@@ -1,0 +1,27 @@
+{
+  "name": "user_authentication_proxy_server_service_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiHyeon-Hong/User_authentication_proxy_server_service_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiHyeon-Hong/User_authentication_proxy_server_service_server/issues"
+  },
+  "homepage": "https://github.com/KiHyeon-Hong/User_authentication_proxy_server_service_server#readme",
+  "dependencies": {
+    "ipfs-api": "^26.1.2",
+    "web3": "^1.8.0",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "request": "^2.88.2",
+    "multer": "^1.4.4"
+  }
+}
